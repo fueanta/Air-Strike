@@ -1,0 +1,251 @@
+# depslib dependency file v1.0
+1514227548 source:c:\users\ift khan\desktop\grphcs_proj\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1514225524 c:\users\ift khan\desktop\grphcs_proj\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1514202275 c:\users\ift khan\desktop\grphcs_proj\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+	"texthandler.h"
+
+1514224501 c:\users\ift khan\desktop\grphcs_proj\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1514105661 c:\users\ift khan\desktop\grphcs_proj\classproject\bullet.h
+
+1514104297 c:\users\ift khan\desktop\grphcs_proj\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1514104278 c:\users\ift khan\desktop\grphcs_proj\classproject\fighter.h
+
+1514107760 c:\users\ift khan\desktop\grphcs_proj\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
+1514225229 c:\users\ift khan\desktop\grphcs_proj\classproject\soundhandler.h
+	<mmsystem.h>
+
+1514226734 c:\users\ift khan\desktop\grphcs_proj\classproject\texthandler.h
+
+1514229315 source:c:\users\ift khan\desktop\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1514229459 c:\users\ift khan\desktop\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1514202275 c:\users\ift khan\desktop\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+	"texthandler.h"
+
+1514224501 c:\users\ift khan\desktop\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1514226734 c:\users\ift khan\desktop\classproject\texthandler.h
+
+1514105661 c:\users\ift khan\desktop\classproject\bullet.h
+
+1514104297 c:\users\ift khan\desktop\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1514104278 c:\users\ift khan\desktop\classproject\fighter.h
+
+1514228648 c:\users\ift khan\desktop\classproject\soundhandler.h
+	<mmsystem.h>
+
+1514107760 c:\users\ift khan\desktop\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
+1514276944 source:c:\users\taqui\desktop\classproject\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1514275281 c:\users\taqui\desktop\classproject\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1514202275 c:\users\taqui\desktop\classproject\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+	"texthandler.h"
+
+1514224501 c:\users\taqui\desktop\classproject\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1514226734 c:\users\taqui\desktop\classproject\classproject\texthandler.h
+
+1514105661 c:\users\taqui\desktop\classproject\classproject\bullet.h
+
+1514104297 c:\users\taqui\desktop\classproject\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1514277184 c:\users\taqui\desktop\classproject\classproject\fighter.h
+
+1514228648 c:\users\taqui\desktop\classproject\classproject\soundhandler.h
+	<mmsystem.h>
+
+1514276780 c:\users\taqui\desktop\classproject\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
+1514276944 source:c:\users\taqui\desktop\classproject2\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1514275281 c:\users\taqui\desktop\classproject2\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1514202275 c:\users\taqui\desktop\classproject2\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+	"texthandler.h"
+
+1514224501 c:\users\taqui\desktop\classproject2\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1514226734 c:\users\taqui\desktop\classproject2\classproject\texthandler.h
+
+1514105661 c:\users\taqui\desktop\classproject2\classproject\bullet.h
+
+1514104297 c:\users\taqui\desktop\classproject2\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1514277184 c:\users\taqui\desktop\classproject2\classproject\fighter.h
+
+1514228648 c:\users\taqui\desktop\classproject2\classproject\soundhandler.h
+	<mmsystem.h>
+
+1514276780 c:\users\taqui\desktop\classproject2\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
+1514276944 source:c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1514275281 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1514202275 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+	"texthandler.h"
+
+1514224501 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1514226734 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\texthandler.h
+
+1514105661 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\bullet.h
+
+1514104297 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1514277184 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\fighter.h
+
+1514228648 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\soundhandler.h
+	<mmsystem.h>
+
+1514276780 c:\users\taqui\documents\codeblocks\cg project\classproject2\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
